@@ -1,0 +1,47 @@
+_repo: Lettres-a-sa-fiancee_74081
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bloy, Jeanne Léon
+    aliases:
+    - Bloy, Jeanne Leon
+    - Molbech-Bloy, Jeanne
+    - Molbech, Johanne
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '57337'
+    url: http://www.gutenberg.org/2009/agents/57337
+creator:
+  author:
+    agent_name: Bloy, Léon
+    alias: Bloy, Leon
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '37756'
+    url: http://www.gutenberg.org/2009/agents/37756
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
+    - https://en.wikipedia.org/wiki/L%C3%A9on_Bloy
+description: ''
+gutenberg_issued: '2024-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74081'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433043812761
+pgterms:marc905: 20240316081243bloy
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bDelamain, Boutelleau & Cie, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 19th century -- Correspondence'
+- !lcsh 'Bloy, Léon, 1846-1917 -- Correspondance'
+- !lcc 'PQ'
+- GITenberg
+title: Lettres à sa fiancée
+url: http://www.gutenberg.org/ebooks/74081
