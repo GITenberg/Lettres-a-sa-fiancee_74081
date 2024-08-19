@@ -11,6 +11,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '57337'
     url: http://www.gutenberg.org/2009/agents/57337
+covers:
+- cover_type: archival
+  image_path: 74081-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloy, Léon
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
     - https://en.wikipedia.org/wiki/L%C3%A9on_Bloy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74081#Lettres-a-sa-fiancee
 gutenberg_issued: '2024-07-20'
 gutenberg_type: Text
 identifiers:
